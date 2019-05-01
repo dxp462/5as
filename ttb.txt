@@ -1,0 +1,52 @@
+AEK Athens,1
+Besiktas,44
+Club Brugge,70
+Athletic Club,16
+LOSC Lille,131
+Sampdoria,205
+Fulham,95
+Nice,157
+Braga,54
+Galatasaray,100
+RB Leipzig,185
+River Plate,190
+Spartak Moskow,226
+Eintracht Frankfurt,80
+CSKA Moskow,75
+PSV,180
+Boca Juniors,49
+Fiorentina,90
+Atalanta,11
+Guangzhou Evergrande,105
+Shakhtar Donetsk,216
+Celta Vigo,59
+Sevilla,210
+Shanghai SIPG,221
+Torino,245
+Ajax,6
+Schalke,85
+Watford,260
+West Ham,265
+Wolverhampton Wanderers,270
+Benfica,39
+Olympique Marseille,162
+Roma,200
+Sporting Lisbon,231
+Napoli,152
+Chelsea,64
+Porto,167
+PSG,173
+Valencia,250
+Lazio,121
+Monaco,147
+Villareal,255
+Inter Milan,110
+Juventus,115
+Liverpool,126
+Man United,142
+Atletico Madrid,21
+Barcelona,26
+Bayern Munich,33
+Man City,136
+Tottenham Hotspurs,237
+Real Madrid,195
